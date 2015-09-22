@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(75,75,75);
+}
+.calculator {
+  background-color: rgb(225,225,225);
+  width: 350px;
+  margin: 0 auto;
+  border-radius: 25px;
+}
+h3 {
+  font-style: italic;
+}
+button {
+  margin: 10px;
+  width: 50px;
+}
+.plus {
+  height: 73px;
+}
